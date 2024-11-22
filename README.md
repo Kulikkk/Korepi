@@ -23,9 +23,9 @@
 
 ---
 
-## [Official website](https://korepi.com/)
+## [Official website](https://korepi.xyz/)
 
-- [click me](https://korepi.com/)
+- [click me](https://korepi.xyz/)
 
 ---
 
